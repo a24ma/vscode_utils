@@ -58,7 +58,7 @@ keybindings.json で以下のように設定する。
 ```json
 {
     "key": "ctrl+shift+j",
-    "command": "extension.switchMyMdCss",
+    "command": "toggle-md2html-on-save.toggle",
     "when": "editorLangId == markdown"
 }
 ```
